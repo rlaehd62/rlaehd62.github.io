@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: KxxDD's Blog # the main title
+title: Dev Blog # the main title
 
-tagline: Junior Developer in KNU # it will display as the sub-title
+tagline: Junior Developer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Hello World!
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: KxxDD
+  name: rlaehd62
   email: rlaehd62@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
